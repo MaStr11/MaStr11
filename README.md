@@ -12,6 +12,6 @@ I'm Martin and I contribute to the [Roslyn C# compiler platform](https://github.
 
 #### Stats
 
-[![MaStr11's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaStr11&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/MaStr11/github-readme-stats)
+[![MaStr11's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaStr11&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaStr11&theme=tokyonight&count_private=true)](https://github.com/MaStr11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaStr11&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
